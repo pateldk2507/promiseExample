@@ -1,2 +1,4 @@
 Phone must have internet
 phone must have hybrid sim slot
+
+start ios development
